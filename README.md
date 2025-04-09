@@ -1,7 +1,8 @@
 # Utilities
 
-This project encapsulates utilities and scripts I've written. Related utilities
-are grouped in various repositories, listed below.
+[This project](https://sr.ht/~ficd/utils/) encapsulates utilities and scripts
+I've written. Related utilities are grouped in various repositories, listed
+below.
 
 | Repository                                             | Purpose                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
