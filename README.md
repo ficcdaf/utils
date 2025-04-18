@@ -7,6 +7,7 @@ below.
 | Repository                                             | Purpose                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | [AutoYADM](https://git.sr.ht/~ficd/autoyadm)           | Utility for better dotfile tracking with YADM.                |
+| [smartcd.fish](https://git.sr.ht/~ficd/smartcd.fish)   | A slightly smarter, fishier `cd`.                             |
 | [mail-utils](https://git.sr.ht/~ficd/mail-utils)       | Scripts for working with emails, including in aerc and Helix. |
 | [wayland-utils](https://git.sr.ht/~ficd/wayland-utils) | Scripts for Wayland, Niri, Foot, etc.                         |
 | [baker](https://git.sr.ht/~ficd/baker)                 | Tiny file copy/backup tool.                                   |
