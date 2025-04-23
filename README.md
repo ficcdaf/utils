@@ -6,6 +6,7 @@ below.
 
 | Repository                                             | Purpose                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
+| [jrnl.fish](https://git.sr.ht/~ficd/jrnl.fish)         | Daily journaling in your `$EDITOR` with template support.     |
 | [AutoYADM](https://git.sr.ht/~ficd/autoyadm)           | Utility for better dotfile tracking with YADM.                |
 | [smartcd.fish](https://git.sr.ht/~ficd/smartcd.fish)   | A slightly smarter, fishier `cd`.                             |
 | [mail-utils](https://git.sr.ht/~ficd/mail-utils)       | Scripts for working with emails, including in aerc and Helix. |
