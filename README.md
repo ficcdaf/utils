@@ -18,5 +18,5 @@ below.
 ## Contributing
 
 Please submit patches, questions, and discussion points to the
-[~ficd/utils mailing list](https://lists.sr.ht/~ficd/utils), and consider
-visiting the [public ticket tracker](https://todo.sr.ht/~ficd/utils).
+[mailing list](https://lists.sr.ht/~ficd/utils), and make bug reports and
+feature requests on the [ticket tracker](https://todo.sr.ht/~ficd/utils).
