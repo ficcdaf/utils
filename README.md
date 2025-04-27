@@ -13,6 +13,7 @@ below.
 | [wayland-utils](https://git.sr.ht/~ficd/wayland-utils) | Scripts for Wayland, Niri, Foot, etc.                         |
 | [baker](https://git.sr.ht/~ficd/baker)                 | Tiny file copy/backup tool.                                   |
 | [typpres](https://git.sr.ht/~ficd/typpres)             | Typst library for easy slideshows.                            |
+| [reflib](https://git.sr.ht/~ficd/reflib)               | Typst library for easier referencing of labels.               |
 | [scripts](https://git.sr.ht/~ficd/scripts)             | Dumping ground for miscellaneous scripts.                     |
 
 ## Contributing
